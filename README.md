@@ -56,7 +56,8 @@ Kmeans_simulation.mov               - Video of Kmeans algorithm simultion
  </details>
  <details>
 <summary>Pingali Sathvika</summary>
-  * <a href="https://github.com/akshayapillalamarri213">Github</a>
+  
+ * <a href="https://github.com/akshayapillalamarri213">Github</a>
   
  * <a href="https://www.facebook.com/profile.php?id=100078653888220">Facebook</a> 
 
