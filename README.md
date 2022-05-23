@@ -34,7 +34,7 @@ Kmeans_simulation.mov               - Video of Kmeans algorithm simultion
 
  * <a href="https://github.com/Chaitanyareddy0702">Github</a>
   
- * <a href="https://www.facebook.com/Rock-Chaitanya-Reddy/">Facebook</a> 
+ * <a href="https://www.facebook.com/onteddu.chaitanya.1">Facebook</a> 
 
  * <a href="https://www.instagram.com/__chaitanya.reddy__/">Instagram</a>
   
